@@ -1,0 +1,10 @@
+# User-specific files
+node_modules
+*.css
+*.map
+*lock*
+*.js
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
